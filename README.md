@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Suryateja Kommuri!
 
-<!--
-**suryak02/suryak02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full-Stack Developer** | 🌐 **Cloud & AI Enthusiast** | ⛓️ **Blockchain Innovator**
 
-Here are some ideas to get you started:
+🔹 Passionate about **building scalable, efficient software solutions**  
+🔹 Skilled in **Python, JavaScript, Solidity, and Cloud Computing**  
+🔹 Always exploring **Generative AI, Data Science, and Web Development**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Open to **collaborations, freelance projects, and exciting opportunities**  
+
+📧 **kommurisurya@gmail.com**  
+🌍 **[Portfolio](https://www.suryakommuri.com/)**  
+🐙 **[GitHub](https://github.com/suryak02)** | 💼 **[LinkedIn](https://www.linkedin.com/in/suryateja-kommuri/)**
