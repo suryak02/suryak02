@@ -31,6 +31,5 @@ I'm a **Full-Stack Developer** passionate about **Cloud Computing, AI, and Block
 📧 **Email**: kommurisurya@gmail.com  
 🌐 **Portfolio**: [suryakommuri.com](https://www.suryakommuri.com/)  
 🌟 **LinkedIn**: [linkedin.com/in/suryateja-kommuri](https://www.linkedin.com/in/suryateja-kommuri/)  
-🐙 **GitHub**: [github.com/suryak02](https://github.com/suryak02)  
 
-Excited to collaborate and chat about new ideas! 🚀
+Excited to collaborate and chat about new ideas! 
